@@ -25,7 +25,6 @@ public class Generator
 				s += alphabet.charAt(r.nextInt(alphabet.length()));
 			}
 			array[i] = s;
-			System.out.println(i + ": " + s);
 		}
 
 		return array;

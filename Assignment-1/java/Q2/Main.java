@@ -2,8 +2,13 @@ public class Main{
 
 	public static void main(String[] args){
 	
-		Generator g = new Generator("ABCD");
+		Generator g = new Generator("ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz");
+		long startTime = System.currentTimeMillis();
+		String[] array = g.generate(1000000,100);
+		long endTime = System.currentTimeMillis();
 
-		String[] array = g.generate(10,3);
+		//System.out.println("Start: " + startTime);
+		//System.out.println("End: " + endTime);
+		System.out.println("Duration: " + (endTime - startTime));
 	}
 }
