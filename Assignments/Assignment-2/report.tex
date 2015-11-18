@@ -1,0 +1,156 @@
+\documentclass[titlepage]{article}
+
+\usepackage{titlesec}
+\usepackage[margin=1in]{geometry}
+\usepackage[pdftex]{graphicx}
+\usepackage{changepage}
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\titleformat*{\section}{\large\bfseries}
+\titleformat*{\subsection}{\normalsize\bfseries}
+\titleformat*{\subsubsection}{\normalsize\bfseries}
+\titleformat*{\paragraph}{\normalsize\bfseries}
+\titleformat*{\subparagraph}{\normalsize\bfseries}
+
+\titlespacing*{\subsection} {2em}{3.25ex plus 1ex minus .2ex}{1.5ex plus .2ex}
+\titlespacing*{\subsubsection} {3em}{3.25ex plus 1ex minus .2ex}{1.5ex plus .2ex}
+
+\begin{document}
+\title{CSCI3070U Assignment 2}
+\date{Novemeber 22nd 2015}
+\author{Taylor Smith \and 100372402}
+\maketitle
+\part*{Part A}
+
+  \section{What is the eccentricity of a vertex in a graph. Illustrate with an example.}
+
+    The eccentricity of a vertex is the greatest distance between it and any other vertex. It can be thought of as how far a node is from the farthest node in the graph.
+
+    \begin{figure}[ht]
+      \begin{minipage}[c]{0.45\linewidth}
+      \centering
+      \includegraphics[width=0.5\textwidth]{graph.png}
+      \end{minipage}
+      \hspace{0.5cm}
+      \begin{minipage}[b]{0.45\linewidth}
+      \centering
+          \begin{tabular}{| c | c |}
+            \hline
+            Vertex & Eccentricity \\
+            \hline
+            1 & 3 \\
+            \hline
+            2 & 3 \\
+            \hline
+            3 & 2 \\
+            \hline
+            4 & 2 \\
+            \hline
+            5 & 2 \\
+            \hline
+            6 & 3 \\
+            \hline
+          \end{tabular}
+      \end{minipage}
+    \end{figure}
+
+  \section{What is the radius of a graph. Illustrate with an example.}
+
+    The radius of a graph is the minimum eccentricity of any vertex in the graph.\\
+    In the example above the radius is 2.
+
+  \section{What is the diameter of a graph. Illustrate with an example.}
+
+    The diameter of the graph is the maximum eccentricity of any vertex in the graph.\\
+    In the example above the diameter is 3.
+
+  \section{Provide a detailed algorithmic solution to compute the \emph{three} properties. You may use functions such as BFS, DFS, and Dijkstra}
+
+    \begin{minipage}[t]{0.3\linewidth}
+      \subsection{Eccentricity}
+        \begin{adjustwidth}{2em}{0pt}
+          for v $\in$ V
+          \begin{adjustwidth}{1em}{0pt}
+            BFS(v) \\
+            e[v] = max(d)
+          \end{adjustwidth}
+        \end{adjustwidth}
+    \end{minipage}
+\
+    \begin{minipage}[t]{0.3\linewidth}
+      \subsection{Radius}
+        \begin{adjustwidth}{2em}{0pt}
+          for v $\in$ V
+          \begin{adjustwidth}{1em}{0pt}
+            BFS(v) \\
+            e[v] = max(d)
+          \end{adjustwidth}
+          r = min(e)
+        \end{adjustwidth}
+    \end{minipage}
+\
+    \begin{minipage}[t]{0.3\linewidth}
+      \subsection{Diameter}
+        \begin{adjustwidth}{2em}{0pt}
+          for v $\in$ V
+          \begin{adjustwidth}{1em}{0pt}
+            BFS(v) \\
+            e[v] = max(d)
+          \end{adjustwidth}
+          d = max(e)
+        \end{adjustwidth}
+    \end{minipage}
+
+  \section{What are the computation complexities of the \emph{three} solutions?}
+
+  \begin{minipage}[t]{0.33\linewidth}
+    \subsection{Eccentricity}
+      \begin{adjustwidth}{2em}{0pt}
+        for v $\in$ V \hfill $\mathcal{O} \left( |V| \right)$
+        \begin{adjustwidth}{1em}{0pt}
+          BFS(v) \hfill $\mathcal{O} \left( |V| + |E| \right)$\\
+          e[v] = max(d) \hfill $\mathcal{O} \left( |V| \right)$
+        \end{adjustwidth}
+        \ \\
+        \ \\
+        Overall: \\
+
+        $ \mathcal{O} \left( |V| \times \left( \left( |V| + |E| \right) + |V| \right) \right)$
+      \end{adjustwidth}
+  \end{minipage}
+\
+  \begin{minipage}[t]{0.33\linewidth}
+    \subsection{Radius}
+      \begin{adjustwidth}{2em}{0pt}
+      for v $\in$ V \hfill $\mathcal{O} \left( |V| \right)$
+      \begin{adjustwidth}{1em}{0pt}
+        BFS(v) \hfill $\mathcal{O} \left( |V| + |E| \right)$\\
+        e[v] = max(d) \hfill $\mathcal{O} \left( |V| \right)$
+        \end{adjustwidth}
+        r = min(e) \hfill $\mathcal{O} \left( |V| \right)$
+      \end{adjustwidth}
+      \ \\
+      Overall: \\
+
+      $ \mathcal{O} \left( \left(|V| \times \left( \left( |V| + |E| \right) + |V| \right) \right) + |V| \right)$
+  \end{minipage}
+\
+  \begin{minipage}[t]{0.33\linewidth}
+    \subsection{Diameter}
+      \begin{adjustwidth}{2em}{0pt}
+      for v $\in$ V \hfill $\mathcal{O} \left( |V| \right)$
+      \begin{adjustwidth}{1em}{0pt}
+        BFS(v) \hfill $\mathcal{O} \left( |V| + |E| \right)$\\
+        e[v] = max(d) \hfill $\mathcal{O} \left( |V| \right)$
+        \end{adjustwidth}
+        d = max(e) \hfill $\mathcal{O} \left( |V| \right)$
+      \end{adjustwidth}
+      \ \\
+      Overall: \\
+
+      $ \mathcal{O} \left( \left(|V| \times \left( \left( |V| + |E| \right) + |V| \right) \right) + |V| \right)$
+  %    $ \mathcal{0} \left( |V|^{2} + |V||E| \right) $
+  \end{minipage}
+
+\end{document}
