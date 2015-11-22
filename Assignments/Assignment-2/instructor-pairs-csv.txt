@@ -1,0 +1,1144 @@
+Danny Papagiannis,Emily Flynn-Jones
+Allyson Eamer,Carol S. Doyle-Jones
+Ann Lesage,Katherine Jin
+Julia Green-Johnson,Sean G. Forrester
+Julia Green-Johnson,Yuri Bolshan
+Dario T. Bonetta,Douglas Holdway
+Dario T. Bonetta,Janice Strap
+Dario T. Bonetta,Jean-Paul Desaulnier
+Dario T. Bonetta,Julia Green-Johnson
+Dario T. Bonetta,Sean G. Forrester
+Dario T. Bonetta,Yuri Bolshan
+Sean G. Forrester,Yuri Bolshan
+Cecilia Hageman,Dario T. Bonetta
+Cecilia Hageman,Douglas Holdway
+Cecilia Hageman,Janice Strap
+Cecilia Hageman,Jean-Paul Desaulnier
+Cecilia Hageman,Julia Green-Johnson
+Cecilia Hageman,Sean G. Forrester
+Cecilia Hageman,Yuri Bolshan
+Annette Tavares,Mary Olaveson
+Julia Green-Johnson,Sylvie Bardin
+Dario T. Bonetta,George Stamatiou
+Rob Elkington,William Thurber
+Jane M. Bowen,Michael Konopaski
+David Agnew,William Goodman
+Amin Ibrahim,Bic Ngo
+Malcolm MacTaggart,Morden Shapiro
+Amin Ibrahim,Andrey Zarin
+Amin Ibrahim,Garrett M. Hayes
+Cheryl Wilson,Michael Konopaski
+Cheryl Wilson,John Friedlan
+Denise Cook,Jenna N. Lasky
+Denise Cook,John Friedlan
+Athina Hall,Jenna N. Lasky
+Athina Hall,Denise Cook
+Athina Hall,John Friedlan
+Jackie Simkin,Juan Wang
+Chinmay Jain,Tony Mayadunne
+Nidal Qwasmi,Wei Shi
+Nidal Qwasmi,Sanja Kliska
+Fletcher Lu,Kamyar Ghaderi
+Angela Kellett,Jane M. Bowen
+Brett W. Murphy,Ying Jiang
+Eric Winmil,Robert Mulligan
+Chirag Surti,Karthik Sankaranaray
+Jeff Moretz,Mehdi Hossein Nejad
+Jeff Moretz,Nada O. Basir
+Mehdi Hossein Nejad,Nada O. Basir
+Timothy Claydon,Vera Barton
+Stephen Rose,Timothy Claydon
+Stephen Rose,Vera Barton
+Christopher Zerebeck,Stephen Rose
+Christopher Zerebeck,Timothy Claydon
+Christopher Zerebeck,Vera Barton
+Christopher Zerebeck,James S. Robb
+Nelson Lafreniere,Omer Yukseker
+Cristen Hucaluk,Omer Yukseker
+Cristen Hucaluk,Nelson Lafreniere
+Cristen Hucaluk,Kevin Coulter
+Liliana Trevani,Omer Yukseker
+Jan Matejovic,Jean-Paul Desaulnier
+Antonie Scholtz,Iain McPherson
+Antonie Scholtz,Kristen Boujos
+Antonie Scholtz,Susan M. Scott
+Kristen Boujos,Susan M. Scott
+Iain McPherson,Kristen Boujos
+Iain McPherson,Susan M. Scott
+Amanda J. Wendelgass,Amrinder S. Brar
+Amanda J. Wendelgass,Antonie Scholtz
+Amanda J. Wendelgass,Iain McPherson
+Amanda J. Wendelgass,Kristen Boujos
+Amanda J. Wendelgass,Susan M. Scott
+Amrinder S. Brar,Antonie Scholtz
+Amrinder S. Brar,Iain McPherson
+Amrinder S. Brar,Kristen Boujos
+Amrinder S. Brar,Susan M. Scott
+Jonathan Obar,Tanner Mirrlees
+Amanda Robinson,Antonie Scholtz
+Andrea Braithwaite,Roberta Buiani
+Dale Shin,Sharon Lauricella
+Roberta Buiani,Teresa Pierce
+Andrea Braithwaite,Teresa Pierce
+Gary Genosko,Tanner Mirrlees
+Kamran Sartipi,Khalid A. Hafeez
+Mark W. Green,Randy J. Fortier
+Amin Ibrahim,Miguel Vargas Martin
+Francois Desjardins,Roland Van Oostveen
+Francois Desjardins,Jordanne Christie
+Diana Petrarca,Lorayne Robertson
+Min Dong,Shahram Shahbazpanah
+Marc Rosen,Min Dong
+Marc Rosen,Mikael Eklund
+Marc Rosen,Scott B. Nokleby
+Mikael Eklund,Min Dong
+Mikael Eklund,Scott B. Nokleby
+Kamiel Gabriel,Min Dong
+Kamiel Gabriel,Marc Rosen
+Kamiel Gabriel,Mikael Eklund
+Kamiel Gabriel,Scott B. Nokleby
+Matthew H. Kaye,Rob Anderson
+Ghaus M. Rizvi,Sayyed Ali Hosseini
+Ali Keshavarz,Ebrahim Esmailzadeh
+Ali Keshavarz,Daniel Hoornweg
+Ali Keshavarz,Hossam E. Gaber
+George Bereznai,Glenn Harvel
+George Bereznai,Hossam E. Gaber
+George Bereznai,Igor Pioro
+George Bereznai,Jennifer McKellar
+George Bereznai,John P. Froats
+George Bereznai,Kerry Morrison
+George Bereznai,Lixuan Lu
+George Bereznai,Matthew H. Kaye
+George Bereznai,Sharman Perera
+George Bereznai,Rachid Machrafi
+John P. Froats,Kerry Morrison
+John P. Froats,Lixuan Lu
+John P. Froats,Matthew H. Kaye
+John P. Froats,Sharman Perera
+John P. Froats,Rachid Machrafi
+Hossam E. Gaber,Igor Pioro
+Hossam E. Gaber,Jennifer McKellar
+Hossam E. Gaber,John P. Froats
+Hossam E. Gaber,Kerry Morrison
+Hossam E. Gaber,Lixuan Lu
+Hossam E. Gaber,Matthew H. Kaye
+Hossam E. Gaber,Sharman Perera
+Hossam E. Gaber,Rachid Machrafi
+Glenn Harvel,Hossam E. Gaber
+Glenn Harvel,Igor Pioro
+Glenn Harvel,Jennifer McKellar
+Glenn Harvel,John P. Froats
+Glenn Harvel,Kerry Morrison
+Glenn Harvel,Lixuan Lu
+Glenn Harvel,Matthew H. Kaye
+Glenn Harvel,Sharman Perera
+Glenn Harvel,Rachid Machrafi
+Daniel Hoornweg,Ed Waller
+Daniel Hoornweg,Eleodor M. Nichita
+Daniel Hoornweg,George Bereznai
+Daniel Hoornweg,Glenn Harvel
+Daniel Hoornweg,Hossam E. Gaber
+Daniel Hoornweg,Igor Pioro
+Daniel Hoornweg,Jennifer McKellar
+Daniel Hoornweg,John P. Froats
+Daniel Hoornweg,Kerry Morrison
+Daniel Hoornweg,Lixuan Lu
+Daniel Hoornweg,Matthew H. Kaye
+Daniel Hoornweg,Sharman Perera
+Daniel Hoornweg,Rachid Machrafi
+Brian Ikeda,Daniel Hoornweg
+Brian Ikeda,Ed Waller
+Brian Ikeda,Eleodor M. Nichita
+Brian Ikeda,George Bereznai
+Brian Ikeda,Glenn Harvel
+Brian Ikeda,Hossam E. Gaber
+Brian Ikeda,Igor Pioro
+Brian Ikeda,Jennifer McKellar
+Brian Ikeda,John P. Froats
+Brian Ikeda,Kerry Morrison
+Brian Ikeda,Lixuan Lu
+Brian Ikeda,Matthew H. Kaye
+Brian Ikeda,Sharman Perera
+Brian Ikeda,Rachid Machrafi
+Matthew H. Kaye,Sharman Perera
+Matthew H. Kaye,Rachid Machrafi
+Lixuan Lu,Matthew H. Kaye
+Lixuan Lu,Sharman Perera
+Lixuan Lu,Rachid Machrafi
+Jennifer McKellar,John P. Froats
+Jennifer McKellar,Kerry Morrison
+Jennifer McKellar,Lixuan Lu
+Jennifer McKellar,Matthew H. Kaye
+Jennifer McKellar,Sharman Perera
+Jennifer McKellar,Rachid Machrafi
+Kerry Morrison,Lixuan Lu
+Kerry Morrison,Matthew H. Kaye
+Kerry Morrison,Sharman Perera
+Kerry Morrison,Rachid Machrafi
+Eleodor M. Nichita,George Bereznai
+Eleodor M. Nichita,Glenn Harvel
+Eleodor M. Nichita,Hossam E. Gaber
+Eleodor M. Nichita,Igor Pioro
+Eleodor M. Nichita,Jennifer McKellar
+Eleodor M. Nichita,John P. Froats
+Eleodor M. Nichita,Kerry Morrison
+Eleodor M. Nichita,Lixuan Lu
+Eleodor M. Nichita,Matthew H. Kaye
+Eleodor M. Nichita,Sharman Perera
+Eleodor M. Nichita,Rachid Machrafi
+Igor Pioro,Jennifer McKellar
+Igor Pioro,John P. Froats
+Igor Pioro,Kerry Morrison
+Igor Pioro,Lixuan Lu
+Igor Pioro,Matthew H. Kaye
+Igor Pioro,Sharman Perera
+Igor Pioro,Rachid Machrafi
+Anthony Waker,Brian Ikeda
+Anthony Waker,Daniel Hoornweg
+Anthony Waker,Ed Waller
+Anthony Waker,Eleodor M. Nichita
+Anthony Waker,George Bereznai
+Anthony Waker,Glenn Harvel
+Anthony Waker,Hossam E. Gaber
+Anthony Waker,Igor Pioro
+Anthony Waker,Jennifer McKellar
+Anthony Waker,John P. Froats
+Anthony Waker,Kerry Morrison
+Anthony Waker,Lixuan Lu
+Anthony Waker,Matthew H. Kaye
+Anthony Waker,Sharman Perera
+Anthony Waker,Brent Lewis
+Anthony Waker,Rachid Machrafi
+Ed Waller,Eleodor M. Nichita
+Ed Waller,George Bereznai
+Ed Waller,Glenn Harvel
+Ed Waller,Hossam E. Gaber
+Ed Waller,Igor Pioro
+Ed Waller,Jennifer McKellar
+Ed Waller,John P. Froats
+Ed Waller,Kerry Morrison
+Ed Waller,Lixuan Lu
+Ed Waller,Matthew H. Kaye
+Ed Waller,Sharman Perera
+Ed Waller,Rachid Machrafi
+Reddy Bale,Shahram Shahbazpanah
+Franco Gaspari,Valeri Kapoustine
+Cecilia Hageman,Helene LeBlanc
+Kimberly Nugent,Nelson Lafreniere
+Kirk Hillsley,Nicole Campbell
+Elita Partosoedarso,Kirk Hillsley
+Andrea L. Miller,Milly Ryan-Harshman
+Andrea L. Miller,Kerry Johnson
+Meghann Lloyd,Nick Wattie
+Jillian M. Gumbley,Meghann Lloyd
+Jillian M. Gumbley,Nick Wattie
+Holly Taggart,Kerry Johnson
+Nicholas Antony,Paul Yielder
+Donna Smeeton,Helene-Marie Gouldin
+Brenda Gamble,John-Paul Tzountzour
+Andrea L. Miller,JoAnne Arcand
+Nicholas Antony,Ryan Foley
+Ian P. Barker,Nicholas Antony
+Ian P. Barker,Ryan Foley
+Bernadette Murphy,Ian P. Barker
+Bernadette Murphy,Nicholas Antony
+Bernadette Murphy,Ryan Foley
+Ian P. Barker,Shilpa Dogra
+Ian P. Barker,Michael Williams-Bel
+Ryan Foley,Shilpa Dogra
+Milly Ryan-Harshman,Sascha Tuuha
+Marianne Cochrane,Milly Ryan-Harshman
+Marianne Cochrane,Sascha Tuuha
+Andrew Muncaster,Milly Ryan-Harshman
+Andrew Muncaster,Sascha Tuuha
+Andrew Muncaster,Marianne Cochrane
+Robert Balogh,Wally Bartfay
+Emma Bartfay,Naomi Cahill
+Emma Bartfay,Robert Balogh
+Emma Bartfay,Wally Bartfay
+Nicole Campbell,Wally Bartfay
+Clemon George,Mika L. Nonoyama
+Clemon George,Wally Bartfay
+Clemon George,Nicole Campbell
+Clemon George,Fiore Sicoly
+Clemon George,Lisa Fiksenbaum
+Ian P. Barker,Steven Lester
+Ryan Foley,Steven Lester
+Michael Holmes,Ryan Foley
+Ian P. Barker,Michael Holmes
+Robert Balogh,Shilpa Dogra
+Lisa Fiksenbaum,Nicole Campbell
+Lisa Fiksenbaum,Robert Balogh
+Lisa Fiksenbaum,Manon Lemonde
+Lisa Fiksenbaum,Shilpa Dogra
+Nicole Campbell,Robert Balogh
+Nicole Campbell,Shilpa Dogra
+Caroline Barakat-Had,Pierre Cote
+Bill Kapralos,Miguel Vargas Martin
+Lennart Nacke,Pejman Mirza-Babaei
+Kenneth Finney,Matthew R. Stephan
+Adam Baran,Shahram Heydari
+Andrew Hogue,Daniel S. Buckstein
+Adam Baran,Joshua Lowe
+Adam Baran,Brent MacRae
+Adam Baran,Imraan A. Rahemtulla
+Adam Baran,Snezhy Neshkova
+Garrett M. Hayes,Shahram Heydari
+Fletcher Lu,Wei Shi
+Julie Thorpe,Rajen Akalu
+Julie Thorpe,Stephen Marsh
+Rajen Akalu,Stephen Marsh
+Bruce Curran,Daved Muttart
+Jen Rinaldi,Natalie Oman
+Rachel Ariss,Thomas McMorrow
+Daved Muttart,Rachel Ariss
+Daved Muttart,Thomas McMorrow
+Anthony Anirud,Salman Rana
+Anthony Anirud,Natalie Oman
+Jen Rinaldi,Rachel Ariss
+Hossam Kishawy,Sayyed Ali Hosseini
+Azar Shakoori,Isaac Ye
+Azar Shakoori,Ilona Kletskin
+Azar Shakoori,Paula Dicato
+Ilona Kletskin,Isaac Ye
+Ilona Kletskin,Paula Dicato
+Ilona Kletskin,Mihai Beligan
+Ilona Kletskin,Qing H. Li
+Azar Shakoori,Mihai Beligan
+Azar Shakoori,Qing H. Li
+Mihai Beligan,Qing H. Li
+Remon Pop-Iliev,Sayyed Ali Hosseini
+Atef Mohany,Sayyed Ali Hosseini
+Connie Thurber,Ruth Simpson
+Helene-Marie Gouldin,John Samis
+Helene-Marie Gouldin,Lavern Bourne
+Helene-Marie Gouldin,Sue O'Dwyer
+Lavern Bourne,Sue O'Dwyer
+John Samis,Lavern Bourne
+John Samis,Sue O'Dwyer
+Connie Thurber,John Samis
+Connie Thurber,Mikael Khan
+Mikael Khan,Ruth Simpson
+John Samis,Mikael Khan
+John Samis,Ruth Simpson
+Lavern Bourne,Nancy Bergeron
+Nancy Bergeron,Silvana Jacobs
+Lavern Bourne,Silvana Jacobs
+John Samis,Nancy Bergeron
+John Samis,Silvana Jacobs
+Dhavide A. Aruliah,Mehran Ebrahimi
+Daniel Meneley,Jennifer McKellar
+Daniel Meneley,Ed Waller
+Daniel Meneley,Matthew H. Kaye
+Daniel Meneley,Eleodor M. Nichita
+Elizabeth Erwin,Leslie L. Graham
+Elizabeth Erwin,Jessica Eckstein
+Fabiola Longo,Kathy Lavis
+Kathy Cummings,Sandra Mairs
+Elaine Salmers,Kathy Cummings
+Elaine Salmers,Sandra Mairs
+Kathy Lavis,Sandra Mairs
+Kathy Lavis,Manon Lemonde
+Kathy Cummings,Mary Kate Garrity
+Fabiola Longo,Kathy Cummings
+Fabiola Longo,Gail Lindsay
+Fabiola Longo,Mary Kate Garrity
+Arlene B. De La Roch,Fabiola Longo
+Arlene B. De La Roch,Kathy Cummings
+Arlene B. De La Roch,Gail Lindsay
+Arlene B. De La Roch,Mary Kate Garrity
+Marianne Cochrane,Sue Coffey
+Marianne Cochrane,Sara Lankshear
+Mariana Markovic,Marianne Cochrane
+Mariana Markovic,Sue Coffey
+Mariana Markovic,Sara Lankshear
+Kim Jagos,Mariana Markovic
+Kim Jagos,Marianne Cochrane
+Kim Jagos,Sue Coffey
+Kim Jagos,Sara Lankshear
+Elita Partosoedarso,Kadeen N. Briscoe
+Elita Partosoedarso,June MacDonald-Jenki
+Dana Chorney,Elita Partosoedarso
+Dana Chorney,Kadeen N. Briscoe
+Dana Chorney,June MacDonald-Jenki
+Angela Davis,Dana Chorney
+Angela Davis,Elita Partosoedarso
+Angela Davis,Kadeen N. Briscoe
+Angela Davis,June MacDonald-Jenki
+Jennifer M. Abbass D,Karen Campbell
+Sandra Mairs,Wendy Stanyon
+Arlene B. De La Roch,Jacqueline Limoges
+Arlene B. De La Roch,Jennifer M. Abbass D
+Arlene B. De La Roch,Victoria L. Smye
+Jacqueline Limoges,Jennifer M. Abbass D
+Jacqueline Limoges,Victoria L. Smye
+Jennifer M. Abbass D,Victoria L. Smye
+Leslie L. Graham,Nicole Ilavsky
+Dana Chorney,Elizabeth Erwin
+Dana Chorney,Leslie L. Graham
+Dana Chorney,Nicole Ilavsky
+Arlene B. De La Roch,Dana Chorney
+Arlene B. De La Roch,Elizabeth Erwin
+Arlene B. De La Roch,Kadeen N. Briscoe
+Arlene B. De La Roch,Leslie L. Graham
+Arlene B. De La Roch,Nicole Ilavsky
+Elizabeth Erwin,Kadeen N. Briscoe
+Elizabeth Erwin,Nicole Ilavsky
+Kadeen N. Briscoe,Leslie L. Graham
+Kadeen N. Briscoe,Nicole Ilavsky
+Hendrick De Haan,Rupinder Brar
+Hendrick De Haan,Matthew Weel
+Hendrick De Haan,Zahraa Ibrahim
+Hendrick De Haan,Isaac Tamblyn
+Andrey Zarin,Hendrick De Haan
+Andrey Zarin,Rupinder Brar
+Andrey Zarin,Matthew Weel
+Andrey Zarin,Zahraa Ibrahim
+Andrey Zarin,Isaac Tamblyn
+Rupinder Brar,Zahraa Ibrahim
+Joseph D. Macmillan,Rupinder Brar
+Goran Manneberg,Valeri Kapoustine
+Franco Gaspari,Joseph D. Macmillan
+Karla Emeno,Ronn Young
+Amy Leach,Fiore Sicoly
+Amy Leach,Michael Mueller
+Amy Leach,Shannon Vettor
+Joseph Eastwood,Shannon Vettor
+Joseph Eastwood,Kimberley A. Clow
+Joseph Eastwood,Leigh Harkins
+Eleodor M. Nichita,Mohamed Boussoufi
+Mohamed Boussoufi,Rachid Machrafi
+Anthony Waker,Gloria Orchard
+Gloria Orchard,Rachid Machrafi
+Bruce Curran,Jen Rinaldi
+Juanita Boone,Maggie Reber
+Daved Muttart,Sasha Baglay
+Barbara Perry,Bruce Curran
+Marie L. Polgar-Matt,Tyler Frederick
+Marie L. Polgar-Matt,Seyun Maria Jung
+Scott M. Aquanno,Trevor W. Preston
+Arshia U. Zaidi,Liqun Cao
+Arshia U. Zaidi,Marie L. Polgar-Matt
+Arshia U. Zaidi,Seyun Maria Jung
+Amanda Couture-Carro,Arshia U. Zaidi
+Amanda Couture-Carro,Liqun Cao
+Amanda Couture-Carro,Marie L. Polgar-Matt
+Amanda Couture-Carro,Seyun Maria Jung
+Liqun Cao,Marie L. Polgar-Matt
+Liqun Cao,Seyun Maria Jung
+Monika Korzun,Shahid Alvi
+Monika Korzun,Steven Downing
+Karim Remtulla,Monika Korzun
+Karim Remtulla,Shahid Alvi
+Karim Remtulla,Steven Downing
+Judith A. Grant,Olga Marques
+Judith A. Grant,Shahid Alvi
+Judith A. Grant,Tyler Frederick
+Judith A. Grant,Wesley Crichlow
+Judith A. Grant,Steven Downing
+Olga Marques,Shahid Alvi
+Olga Marques,Tyler Frederick
+Olga Marques,Wesley Crichlow
+Olga Marques,Steven Downing
+Christopher O'Connor,Judith A. Grant
+Christopher O'Connor,Olga Marques
+Christopher O'Connor,Shahid Alvi
+Christopher O'Connor,Tyler Frederick
+Christopher O'Connor,Wesley Crichlow
+Christopher O'Connor,Hannah Scott
+Christopher O'Connor,Steven Downing
+Shahid Alvi,Tyler Frederick
+Shahid Alvi,Wesley Crichlow
+Shahid Alvi,Steven Downing
+Tyler Frederick,Wesley Crichlow
+Adam Ellis,Annmarie Barnes
+Adam Ellis,Amir Mostaghim
+Christopher O'Connor,Phillip Shon
+Christopher O'Connor,Ronald Hinch
+Phillip Shon,Ronald Hinch
+Phillip Shon,Steven Downing
+Phillip Shon,Shahid Alvi
+Phillip Shon,Tyler Frederick
+Barbara Perry,Phillip Shon
+Barbara Perry,Ronald Hinch
+Barbara Perry,Steven Downing
+Barbara Perry,Christopher O'Connor
+Barbara Perry,Shahid Alvi
+Barbara Perry,Judith A. Grant
+Barbara Perry,Olga Marques
+Barbara Perry,Tyler Frederick
+Arshia U. Zaidi,Karla Emeno
+Aziz Douai,Carla Cesaroni
+Ronn Young,Timothy Macneill
+Kamran Sartipi,Khalil Abuosba
+Khalid A. Hafeez,Ramiro Liscano
+Paula Dicato,Qing H. Li
+Ann-Louise Davidson,Nadia Naffi
+Kathleen L. Flynn,Laura Pinto
+Daniel Benzimra,Diana Petrarca
+Mark Chen,Todd Blayone
+Daphne Heywood,Jessica Clarkson
+Hanna Mayer,Kaitlyn C. Kaminski
+Hanna Mayer,Wendy Hardman
+Kaitlyn C. Kaminski,Wendy Hardman
+Jean-Paul Desaulnier,Julia Green-Johnson
+Jean-Paul Desaulnier,Sean G. Forrester
+Jean-Paul Desaulnier,Yuri Bolshan
+Douglas Holdway,Janice Strap
+Douglas Holdway,Jean-Paul Desaulnier
+Douglas Holdway,Julia Green-Johnson
+Douglas Holdway,Sean G. Forrester
+Douglas Holdway,Yuri Bolshan
+Andrea Kirkwood,Dario T. Bonetta
+Andrea Kirkwood,Douglas Holdway
+Andrea Kirkwood,Janice Strap
+Andrea Kirkwood,Jean-Paul Desaulnier
+Andrea Kirkwood,Julia Green-Johnson
+Andrea Kirkwood,Sean G. Forrester
+Andrea Kirkwood,Cecilia Hageman
+Andrea Kirkwood,Yuri Bolshan
+Janice Strap,Jean-Paul Desaulnier
+Janice Strap,Julia Green-Johnson
+Janice Strap,Sean G. Forrester
+Janice Strap,Yuri Bolshan
+Jason Chung,Julia Green-Johnson
+Jason Chung,Kirk Hillsley
+Julia Green-Johnson,Kirk Hillsley
+Annette Tavares,Kirk Hillsley
+Andrea Kirkwood,Sarah E. MacKay
+Janice Strap,Neil Warner
+Malcolm MacTaggart,Michael Konopaski
+Andrey Zarin,Garrett M. Hayes
+Adam McPherson,Greg Chiykowski
+Adam McPherson,Cheryl Wilson
+Adam McPherson,Michael Konopaski
+Adam McPherson,John Friedlan
+Adam McPherson,Bic Ngo
+Jenna N. Lasky,John Friedlan
+Cheryl Wilson,Tony Mayadunne
+Chirag Surti,Jennifer Percival
+Asifa Aamir,Stephen Marsh
+Athina Hall,Jane M. Bowen
+Cuiping Chen,Jackie Simkin
+Jane M. Bowen,John Friedlan
+Angela Kellett,John Friedlan
+Bin Chang,Shantanu Dutta
+Bin Chang,Chinmay Jain
+Hamid Akbari,Mehdi Hossein Nejad
+Hamid Akbari,Jeff Moretz
+Hamid Akbari,Nada O. Basir
+Jan Matejovic,Lori E. Van Belle
+Jan Matejovic,Nelson Lafreniere
+Lori E. Van Belle,Nelson Lafreniere
+Kevin Coulter,Olena Zenkina
+Lori E. Van Belle,Richard Bartholomew
+Fedor Naumkin,Richard Bartholomew
+Natalie Chinsam,Susan M. Scott
+Natalie Chinsam,Sharon Lauricella
+Aziz Douai,Teresa Pierce
+Ganaele Langlois,Jonathan Obar
+Ken Pu,Randy J. Fortier
+Faisal Qureshi,Randy J. Fortier
+Christopher M. Colli,Mark W. Green
+Danny Papagiannis,Mehrdad Tirandazian
+Farid Bourennani,Masoud Makrehchi
+Bill Hunter,Francois Desjardins
+Mohamed Z. Youssef,Ying Wang
+Hossam E. Gaber,Vijay Sood
+Hossam E. Gaber,Shahram Shahbazpanah
+Ruth Milman,Timothy Teatro
+Sarasij Das,Vijay Sood
+Min Dong,Scott B. Nokleby
+Ahmad Barari,Shahryar Rahnamayan
+Ahmad Barari,Yuelei Yang
+Ahmad Barari,Sayyed Ali Hosseini
+Ahmad Barari,Remon Pop-Iliev
+Shahryar Rahnamayan,Yuelei Yang
+Eyhab Al-Masri,Qusay Mahmoud
+Eyhab Al-Masri,Jing Ren
+Eyhab Al-Masri,Khalid A. Hafeez
+Eyhab Al-Masri,Mikael Eklund
+Khalid A. Hafeez,Reza Ghafouri
+Ali Keshavarz,Behnaz Rezaie
+Ali Keshavarz,Jennifer McKellar
+Daniel Meneley,Muhammad A. Aamir
+Kerry Morrison,Majid Borairi
+Eric Moran,Kerry Morrison
+Eric Moran,Majid Borairi
+Eric Moran,Lixuan Lu
+Kamiel Gabriel,Michael J. Bennett
+Brent Lewis,Reza Ghafouri
+DAN HOORNWEG,Daniel Meneley
+DAN HOORNWEG,Ed Waller
+DAN HOORNWEG,Eleodor M. Nichita
+DAN HOORNWEG,Glenn Harvel
+DAN HOORNWEG,Hossam E. Gaber
+DAN HOORNWEG,Igor Pioro
+DAN HOORNWEG,Jennifer McKellar
+DAN HOORNWEG,John P. Froats
+DAN HOORNWEG,Matthew H. Kaye
+DAN HOORNWEG,Rachid Machrafi
+DAN HOORNWEG,Sharman Perera
+DAN HOORNWEG,Daniel Hoornweg
+DAN HOORNWEG,George Bereznai
+DAN HOORNWEG,Lixuan Lu
+Brian Ikeda,DAN HOORNWEG
+Brian Ikeda,Daniel Meneley
+Ali Keshavarz,Anthony Waker
+Ali Keshavarz,Brian Ikeda
+Ali Keshavarz,DAN HOORNWEG
+Ali Keshavarz,Daniel Meneley
+Ali Keshavarz,Ed Waller
+Ali Keshavarz,Eleodor M. Nichita
+Ali Keshavarz,Glenn Harvel
+Ali Keshavarz,Igor Pioro
+Ali Keshavarz,John P. Froats
+Ali Keshavarz,Matthew H. Kaye
+Ali Keshavarz,Rachid Machrafi
+Ali Keshavarz,Sharman Perera
+Ali Keshavarz,George Bereznai
+Ali Keshavarz,Lixuan Lu
+Rachid Machrafi,Sharman Perera
+Daniel Meneley,Glenn Harvel
+Daniel Meneley,Hossam E. Gaber
+Daniel Meneley,Igor Pioro
+Daniel Meneley,John P. Froats
+Daniel Meneley,Rachid Machrafi
+Daniel Meneley,Sharman Perera
+Daniel Meneley,George Bereznai
+Daniel Meneley,Lixuan Lu
+Anthony Waker,DAN HOORNWEG
+Anthony Waker,Daniel Meneley
+Joel Stewart,Shahram Shahbazpanah
+Joel Stewart,Reddy Bale
+Joel Stewart,Qusay Mahmoud
+Joel Stewart,Ramiro Liscano
+Atef Mohany,Mohamed Z. Youssef
+Atef Mohany,Walid M. Ibrahim
+Atef Mohany,Sheldon S. Williamso
+Atef Mohany,Ying Wang
+Mohamed Z. Youssef,Walid M. Ibrahim
+Mohamed Z. Youssef,Sheldon S. Williamso
+Walid M. Ibrahim,Ying Wang
+David Robertson,Nelson Lafreniere
+Kimberly Bergeron,Toba Bryant
+Kimberly Bergeron,Nick Wattie
+John Samis,Kirk Hillsley
+Brenda Gamble,Kathleen Smith
+Brenda Gamble,Kerry Johnson
+Andrea L. Miller,Christina R. Vaillan
+Christina R. Vaillan,JoAnne Arcand
+Michael Williams-Bel,Shilpa Dogra
+Laura Boyko,Sue Coffey
+Kelly Kay,Laura Boyko
+Kelly Kay,Sue Coffey
+Hilde Zitzelsberger,Kelly Kay
+Hilde Zitzelsberger,Laura Boyko
+Hilde Zitzelsberger,Sue Coffey
+Milly Ryan-Harshman,Nicholas Antony
+Naomi Cahill,Robert Balogh
+Naomi Cahill,Wally Bartfay
+Mika L. Nonoyama,Wally Bartfay
+Mika L. Nonoyama,Nicole Campbell
+Emma Bartfay,Obidimma Ezezika
+Robert Balogh,Toba Bryant
+Shilpa Dogra,Toba Bryant
+Brenda Gamble,Victoria L. Smye
+Bernadette Murphy,Paul Yielder
+Andrey Zarin,Wallace Balaniuc
+Andrey Zarin,Wei Shi
+Bill Kapralos,David Rojas
+Farid Bourennani,Shachaf Ben-Tzur
+Farid Bourennani,Patrick Hung
+Julie Thorpe,Patrick Hung
+Natalie Oman,Sasha Baglay
+Maurice Tomlinson,Rachel Ariss
+Natalie Oman,Rachel Ariss
+Nariman Farsad,Shahram Heydari
+Shachaf Ben-Tzur,Xiaodong Lin
+Isaac Ye,Paula Dicato
+Mihai Beligan,Pietro-Luciano Buono
+Ali Keshavarz,Greg Rohrauer
+Ahmad Barari,Ali Keshavarz
+Ahmad Barari,Greg Rohrauer
+Rami El-Emam,Sayyed Ali Hosseini
+Calin Zamfirescu,Rami El-Emam
+Calin Zamfirescu,Sayyed Ali Hosseini
+Calin Zamfirescu,Ebrahim Esmailzadeh
+Calin Zamfirescu,Fereydoon Diba
+Moustafa El-Gindy,Usman Saeed
+Moustafa El-Gindy,Reza Rizvi
+Behnaz Rezaie,Murat Aydin
+Brendan Macdonald,Sima Kouhi Fayegh De
+Angelo DiNardo,Helene-Marie Gouldin
+Angelo DiNardo,Sue O'Dwyer
+Donna Smeeton,Holly Taggart
+Evelyn Moreau,John Samis
+Evelyn Moreau,Grant Johnson
+Ruth Simpson,Sue O'Dwyer
+Nancy Bergeron,Ruth Simpson
+Nancy Bergeron,Sue O'Dwyer
+Lavern Bourne,Ruth Simpson
+Helene-Marie Gouldin,Nancy Bergeron
+Helene-Marie Gouldin,Ruth Simpson
+Connie Thurber,Helene-Marie Gouldin
+Connie Thurber,Lavern Bourne
+Connie Thurber,Nancy Bergeron
+Connie Thurber,Sue O'Dwyer
+Evelyn Moreau,Milly Ryan-Harshman
+Evelyn Moreau,Sue O'Dwyer
+John Samis,Milly Ryan-Harshman
+Dhavide A. Aruliah,Lennaert Van Veen
+Rachid Machrafi,Vitali Kovaltchouk
+Fabiola Longo,Sandra Mairs
+Arlene B. De La Roch,Sandra Mairs
+Arlene B. De La Roch,Kathy Lavis
+Dana Chorney,Kathy Cummings
+Dana Chorney,Sandra Mairs
+Arlene B. De La Roch,June MacDonald-Jenki
+Elita Partosoedarso,Leslie L. Graham
+Elita Partosoedarso,Marianne Cochrane
+Elita Partosoedarso,Treva Job
+Leslie L. Graham,Marianne Cochrane
+Leslie L. Graham,Treva Job
+Marianne Cochrane,Treva Job
+Joseph D. Macmillan,Zahraa Ibrahim
+Joseph D. Macmillan,Marian Kowalski
+Isaac Tamblyn,Marian Kowalski
+Daved Muttart,Rob Halpin
+Scott M. Aquanno,Shanti Fernando
+Michael Mueller,Shannon Vettor
+Fiore Sicoly,Michael Mueller
+Fiore Sicoly,Shannon Vettor
+Aaron Vandermeer,Eleodor M. Nichita
+Gloria Orchard,Vitali Kovaltchouk
+Andrew Muncaster,Dale Shin
+Ronald Hinch,Steven Downing
+Liqun Cao,Nicole M. Myers
+Jen Rinaldi,Salinda Horgan
+Jen Rinaldi,Marie L. Polgar-Matt
+Jen Rinaldi,Monika Korzun
+Jen Rinaldi,Steven Downing
+Salinda Horgan,Steven Downing
+Judith A. Grant,Maurice Tomlinson
+Amanda Robinson,Hannah Scott
+Abbee Corb,Olga Marques
+Abbee Corb,Adam Ellis
+Hannah Scott,Leslie Nichols
+Annmarie Barnes,Jordan Harel
+Michael Perkins,Tyler Frederick
+Annmarie Barnes,Treisha Hylton
+Annmarie Barnes,Seyun Maria Jung
+Abbee Corb,James Walsh
+Scott M. Aquanno,Simon Granovsky-Lars
+Annmarie Barnes,Scott M. Aquanno
+Annmarie Barnes,Daved Muttart
+Annmarie Barnes,Simon Granovsky-Lars
+Amir Farmanesh,Graham D. Wight
+Amir Farmanesh,Rob Halpin
+Graham D. Wight,Rob Halpin
+Charles Ewert,Robyn Jacobson
+Charles Ewert,Thomas Decker
+Robyn Jacobson,Thomas Decker
+Annmarie Barnes,Graham D. Wight
+Annmarie Barnes,James Walsh
+Steven Downing,Tyler Frederick
+Ronald Hinch,Shahid Alvi
+Ronald Hinch,Tyler Frederick
+Hannah Scott,Shahid Alvi
+Gary Genosko,Phillip Shon
+Lisa Tomlinson,Timothy Macneill
+Lisa Tomlinson,Ronn Young
+Masoud Makrehchi,Michael J. Bennett
+Eyhab Al-Masri,Michael J. Bennett
+John K. Jacoub,Masoud Makrehchi
+Cara Southwood,Liza A. Arnason
+Carolyn Guertin,Elizabeth Childs
+Anand S. Joshi,Usman Saeed
+Douglas Holdway,Jason Chung
+Jason Chung,Sylvie Bardin
+Jason Chung,Sarah E. MacKay
+Cecilia Hageman,Sylvie Bardin
+Janice Strap,Jason Chung
+Jackie Simkin,William Thurber
+Athina Hall,Michael Konopaski
+Ashfakuddin Rubel,Tirtha Dhar
+Cheryl Wilson,Ferdinand Jones
+Sanja Kliska,Wei Shi
+Jennifer Percival,Karthik Sankaranaray
+Kamal Smimou,Malcolm MacTaggart
+James S. Robb,Stephen Rose
+James S. Robb,Timothy Claydon
+James S. Robb,Vera Barton
+John W. Easton,Yuri Bolshan
+Olena Zenkina,Omer Yukseker
+Andrea Braithwaite,Jonathan Obar
+Andrea Braithwaite,Tanner Mirrlees
+Andrea Braithwaite,Dale Shin
+Amanda Robinson,Dale Shin
+Dale Shin,Jenna Jacobson
+Dale Shin,Rob Halpin
+Jeremy Bradbury,Randy J. Fortier
+Armin Sobhani,Dhavide A. Aruliah
+Faisal Qureshi,Jeremy Bradbury
+Jeremy Bradbury,John Rowcroft
+Ami Mamolo,Roland Van Oostveen
+David Gray,Sheila Rhodes
+Ami Mamolo,Jia Li
+Carolyn Guertin,Janette Hughes
+Jing Ren,Min Dong
+Jing Ren,Kamiel Gabriel
+Jing Ren,Marc Rosen
+Jing Ren,Mikael Eklund
+Jing Ren,Scott B. Nokleby
+Hossam E. Gaber,Rob Anderson
+Ali Keshavarz,Yuelei Yang
+Anand S. Joshi,Reddy Bale
+Brent Lewis,Brian Ikeda
+Brent Lewis,Daniel Hoornweg
+Brent Lewis,Ed Waller
+Brent Lewis,Eleodor M. Nichita
+Brent Lewis,George Bereznai
+Brent Lewis,Glenn Harvel
+Brent Lewis,Hossam E. Gaber
+Brent Lewis,Igor Pioro
+Brent Lewis,Jennifer McKellar
+Brent Lewis,John P. Froats
+Brent Lewis,Kerry Morrison
+Brent Lewis,Lixuan Lu
+Brent Lewis,Matthew H. Kaye
+Brent Lewis,Sharman Perera
+Brent Lewis,Rachid Machrafi
+Ramiro Liscano,Shahram Shahbazpanah
+Ramiro Liscano,Reddy Bale
+Sheldon S. Williamso,Walid M. Ibrahim
+Sheldon S. Williamso,Ying Wang
+Calin Zamfirescu,Franco Gaspari
+Calin Zamfirescu,Valeri Kapoustine
+Helene LeBlanc,Nelson Lafreniere
+Dimitrios Graikinis,Kirk Hillsley
+Dimitrios Graikinis,Nicole Campbell
+Kerry Johnson,Milly Ryan-Harshman
+Krystie Robinson-Vin,Otto Sanchez
+Elita Partosoedarso,Otto Sanchez
+Elita Partosoedarso,Krystie Robinson-Vin
+Michael Williams-Bel,Ryan Foley
+Nicole Campbell,Ronald Bell
+Clemon George,Naomi Cahill
+Clemon George,Emma Bartfay
+Clemon George,Robert Balogh
+Paul Yielder,Sandra McKay
+Manon Lemonde,Nicole Campbell
+Manon Lemonde,Robert Balogh
+Manon Lemonde,Shilpa Dogra
+Brenda Gamble,Robert Weaver
+Bernadette Murphy,Michael Holmes
+Michael Holmes,Paul Yielder
+Daniel S. Buckstein,Kenneth Finney
+Daniel S. Buckstein,Matthew R. Stephan
+Brandon J. Drenikow,Kenneth Finney
+Brandon J. Drenikow,Matthew R. Stephan
+Brent MacRae,Joshua Lowe
+Brent MacRae,Imraan A. Rahemtulla
+Imraan A. Rahemtulla,Joshua Lowe
+Brent MacRae,Snezhy Neshkova
+Daniel S. Buckstein,Saad R. Khattak
+James S. Robb,Pejman Mirza-Babaei
+Sasha Baglay,Thomas McMorrow
+Ashkan Alavi,Maurice Tomlinson
+Amirhossein Monjazeb,Ghaus M. Rizvi
+Amirhossein Monjazeb,Sayyed Ali Hosseini
+Lennaert Van Veen,Pietro-Luciano Buono
+Haoxiang Lang,Martin Agelin-Chaab
+Anand S. Joshi,Martin Agelin-Chaab
+Anand S. Joshi,Haoxiang Lang
+Amirhossein Monjazeb,Remon Pop-Iliev
+Brendan Macdonald,Kamiel Gabriel
+Amirhossein Monjazeb,Atef Mohany
+Milly Ryan-Harshman,Sue O'Dwyer
+Jessica Eckstein,Leslie L. Graham
+Dana Chorney,Elaine Salmers
+Manon Lemonde,Sandra Mairs
+Gail Lindsay,Kathy Cummings
+Gail Lindsay,Mary Kate Garrity
+June MacDonald-Jenki,Kim Jagos
+June MacDonald-Jenki,Mariana Markovic
+June MacDonald-Jenki,Marianne Cochrane
+June MacDonald-Jenki,Sue Coffey
+June MacDonald-Jenki,Sara Lankshear
+Sara Lankshear,Sue Coffey
+June MacDonald-Jenki,Kadeen N. Briscoe
+Manon Lemonde,Simonne Simon
+Manon Lemonde,Yvette Dalrymple
+Charissa Cordon,Deborah Devitt
+Charissa Cordon,Manon Lemonde
+Charissa Cordon,Simonne Simon
+Charissa Cordon,Yvette Dalrymple
+Deborah Devitt,Manon Lemonde
+Deborah Devitt,Simonne Simon
+Deborah Devitt,Yvette Dalrymple
+Simonne Simon,Yvette Dalrymple
+Crystal Jardine,Jennifer M. Abbass D
+Crystal Jardine,Dorothea L. Service
+Crystal Jardine,Karen Campbell
+Crystal Jardine,Gail Lindsay
+Matthew Weel,Rupinder Brar
+Matthew Weel,Zahraa Ibrahim
+Anatoli Chkrebtii,Zahraa Ibrahim
+Ali Keshavarz,Tome Kosteski
+Joseph Eastwood,Ronn Young
+Joseph Eastwood,Karla Emeno
+Amy Leach,Joseph Eastwood
+Amy Leach,Karla Emeno
+Amy Leach,Kimberley A. Clow
+Amy Leach,Leigh Harkins
+Amy Leach,Matthew Shane
+Kimberley A. Clow,Leigh Harkins
+Kimberley A. Clow,Matthew Shane
+Joseph Eastwood,Matthew Shane
+Karla Emeno,Kimberley A. Clow
+Karla Emeno,Leigh Harkins
+Karla Emeno,Matthew Shane
+Leigh Harkins,Matthew Shane
+Eleodor M. Nichita,Gloria Orchard
+Brian Ikeda,Gloria Orchard
+Ian Shelton,Rupinder Brar
+Barbara Perry,Treisha Hylton
+Tara Atluri,Treisha Hylton
+Seyun Maria Jung,Tyler Frederick
+Dale Shin,Thomas Decker
+Amir Mostaghim,Graham D. Wight
+Christopher O'Connor,Karim Remtulla
+Christopher O'Connor,Monika Korzun
+Steven Downing,Wesley Crichlow
+Hannah Scott,Judith A. Grant
+Hannah Scott,Olga Marques
+Hannah Scott,Tyler Frederick
+Hannah Scott,Wesley Crichlow
+Hannah Scott,Steven Downing
+Amir Mostaghim,Annmarie Barnes
+Arshia U. Zaidi,Phillip Shon
+Arshia U. Zaidi,Ronald Hinch
+Arshia U. Zaidi,Steven Downing
+Arshia U. Zaidi,Barbara Perry
+Arshia U. Zaidi,Christopher O'Connor
+Arshia U. Zaidi,Shahid Alvi
+Arshia U. Zaidi,Judith A. Grant
+Arshia U. Zaidi,Olga Marques
+Arshia U. Zaidi,Tyler Frederick
+Olga Marques,Phillip Shon
+Olga Marques,Ronald Hinch
+Ami Mamolo,Jordanne Christie
+Ami Mamolo,Jessica Clarkson
+Jessica Clarkson,Jordanne Christie
+Daniel Benzimra,Wendy Barber
+Bill Kapralos,Mark Chen
+Bill Kapralos,Todd Blayone
+Carol S. Doyle-Jones,Daphne Heywood
+Carol S. Doyle-Jones,Jessica Clarkson
+Douglas Holdway,Mary Olaveson
+Ali Azizi,Janice Strap
+John Friedlan,Michael Konopaski
+Eric Winmil,Malcolm MacTaggart
+Iraklii Ebralidze,Jan Matejovic
+Iraklii Ebralidze,Lori E. Van Belle
+Iraklii Ebralidze,Nelson Lafreniere
+Brad Easton,Omer Yukseker
+Nelson Lafreniere,Richard Bartholomew
+Aziz Douai,Natalie Chinsam
+Aziz Douai,Susan M. Scott
+Aziz Douai,Sharon Lauricella
+Dale Shin,Kristen Boujos
+Dale Shin,Ganaele Langlois
+Liza A. Arnason,Rob Halpin
+Danny Papagiannis,John Daniel
+Ken Pu,Mark W. Green
+Jeremy Bradbury,Mehrdad Tirandazian
+Jaroslaw Szlichta,Ken Pu
+Andrew Hogue,Carolyn McGregor
+Andrew Hogue,Jaroslaw Szlichta
+Andrew Hogue,Ken Pu
+Carolyn McGregor,Jaroslaw Szlichta
+Carolyn McGregor,Ken Pu
+Mary Curran,Tim Dolighan
+Jordanne Christie,Roland Van Oostveen
+Laura Pinto,Lorayne Robertson
+Masoud Farzam,Ruth Milman
+Shahram Shahbazpanah,Ying Zhu
+Shahram Shahbazpanah,Ying Wang
+Shahram Shahbazpanah,Vijay Sood
+Lixuan Lu,Vijay Sood
+Lixuan Lu,Shahram Shahbazpanah
+Sayyed Ali Hosseini,Shahryar Rahnamayan
+Sayyed Ali Hosseini,Yuelei Yang
+Jing Ren,Qusay Mahmoud
+Jing Ren,Khalid A. Hafeez
+Khalid A. Hafeez,Qusay Mahmoud
+Khalid A. Hafeez,Mikael Eklund
+Igor Pioro,Vitali Kovaltchouk
+Lixuan Lu,Majid Borairi
+Daniel Hoornweg,Daniel Meneley
+Qusay Mahmoud,Shahram Shahbazpanah
+Qusay Mahmoud,Reddy Bale
+Qusay Mahmoud,Ramiro Liscano
+Ambrose Samulski,Rupinder Brar
+Helene LeBlanc,Kimberly Nugent
+Elita Partosoedarso,Jason Brown
+Jason Brown,Otto Sanchez
+Kathleen Smith,Kerry Johnson
+Lisa Fiksenbaum,Mika L. Nonoyama
+Lisa Fiksenbaum,Wally Bartfay
+Fiore Sicoly,Mika L. Nonoyama
+Fiore Sicoly,Wally Bartfay
+Fiore Sicoly,Nicole Campbell
+Fiore Sicoly,Lisa Fiksenbaum
+Nick Wattie,Sarah West
+Nicole Campbell,Toba Bryant
+Lisa Fiksenbaum,Toba Bryant
+Brenda Gamble,Paul Yielder
+Hilary Brown,Pierre Cote
+Wallace Balaniuc,Wei Shi
+Christopher Zerebeck,Kenneth Finney
+Christopher Zerebeck,Matthew R. Stephan
+Christopher Zerebeck,Daniel S. Buckstein
+Andrew Hogue,Kenneth Finney
+Andrew Hogue,Christopher Zerebeck
+Andrew Hogue,Matthew R. Stephan
+Khalil El-Khatib,Patrick Hung
+Andrew Hogue,Brandon J. Drenikow
+Alireza Izaddoost,Shahram Heydari
+Christopher Carver,Xiaodong Lin
+Bruce Curran,Maurice Tomlinson
+Bruce Curran,Rachel Ariss
+Maurice Tomlinson,Thomas McMorrow
+Pietro-Luciano Buono,Qing H. Li
+Azar Shakoori,Greg Lewis
+Andrew Curtis,Lennaert Van Veen
+Fatemeh Bagherzadeh,Qing H. Li
+Irfan Sayim,Mehran Ebrahimi
+Irfan Sayim,Lennaert Van Veen
+Fatemeh Bagherzadeh,Pietro-Luciano Buono
+Mehran Ebrahimi,Sean Bohun
+Fereydoon Diba,Rami El-Emam
+Fereydoon Diba,Sayyed Ali Hosseini
+Ebrahim Esmailzadeh,Rami El-Emam
+Ebrahim Esmailzadeh,Sayyed Ali Hosseini
+Ebrahim Esmailzadeh,Fereydoon Diba
+Brendan Macdonald,Martin Agelin-Chaab
+Reza Rizvi,Usman Saeed
+Dan Zhang,Zhen Gao
+Ghaus M. Rizvi,Usman Saeed
+Helene-Marie Gouldin,Holly Taggart
+Grant Johnson,John Samis
+Dorothea L. Service,Jennifer M. Abbass D
+Dorothea L. Service,Karen Campbell
+Dorothea L. Service,Gail Lindsay
+Calin Zamfirescu,Tome Kosteski
+Amy Leach,Ronn Young
+Karla Emeno,Shannon Vettor
+Karla Emeno,Miles Bowman
+Matthew Shane,Shannon Vettor
+Matthew Shane,Miles Bowman
+Kimberley A. Clow,Shannon Vettor
+Leigh Harkins,Shannon Vettor
+Jordan Harel,Ronald Hinch
+Jordan Harel,Steven Downing
+Amanda Robinson,Wesley Crichlow
+Christopher O'Connor,Liqun Cao
+Christopher O'Connor,Nicole M. Myers
+Christopher O'Connor,James Walsh
+Christopher O'Connor,Karla Dhungana-Sainj
+James Walsh,Liqun Cao
+James Walsh,Nicole M. Myers
+James Walsh,Karla Dhungana-Sainj
+Karla Dhungana-Sainj,Liqun Cao
+Karla Dhungana-Sainj,Nicole M. Myers
+Marie L. Polgar-Matt,Salinda Horgan
+Marie L. Polgar-Matt,Monika Korzun
+Marie L. Polgar-Matt,Steven Downing
+Monika Korzun,Salinda Horgan
+Danny Papagiannis,Steven Downing
+Danny Papagiannis,Jordan Harel
+Adam Ellis,Olga Marques
+Thomas Decker,Wesley Crichlow
+Daved Muttart,Scott M. Aquanno
+Daved Muttart,Simon Granovsky-Lars
+Karla Dhungana-Sainj,Olga Marques
+Graham D. Wight,James Walsh
+Judith A. Grant,Phillip Shon
+Judith A. Grant,Ronald Hinch
+Kamran Sartipi,Shahryar Rahnamayan
+Khalid A. Hafeez,Michael J. Bennett
+Kamran Sartipi,Qusay Mahmoud
+Cheryl Wilson,Greg Chiykowski
+Bic Ngo,Michael Konopaski
+Bic Ngo,Cheryl Wilson
+Bic Ngo,John Friedlan
+Terry Wu,Tirtha Dhar
+Brett W. Murphy,Tirtha Dhar
+Brett W. Murphy,Terry Wu
+Juan Wang,William Thurber
+Chinmay Jain,Shantanu Dutta
+Kevin Coulter,Omer Yukseker
+Kevin Coulter,Nelson Lafreniere
+Fedor Naumkin,Liliana Trevani
+Sharon Lauricella,Susan M. Scott
+Gary Genosko,Lisa Tomlinson
+Jaroslaw Szlichta,Randy J. Fortier
+Lorayne Robertson,Wendy Barber
+Ying Wang,Ying Zhu
+Jing Ren,Ruth Milman
+Jing Ren,Timothy Teatro
+Remon Pop-Iliev,Shahryar Rahnamayan
+Remon Pop-Iliev,Yuelei Yang
+Mikael Eklund,Qusay Mahmoud
+Cecilia Hageman,Kimberly Nugent
+Nick Wattie,Toba Bryant
+Kirk Hillsley,Ruth Simpson
+Donna Smeeton,Otto Sanchez
+Helene-Marie Gouldin,Otto Sanchez
+Efrosini A. Papacons,Hilde Zitzelsberger
+Efrosini A. Papacons,Kelly Kay
+Efrosini A. Papacons,Laura Boyko
+Efrosini A. Papacons,Sue Coffey
+Nicholas Antony,Sascha Tuuha
+Caroline Barakat-Had,Wally Bartfay
+Caroline Barakat-Had,Mika L. Nonoyama
+Caroline Barakat-Had,Clemon George
+Caroline Barakat-Had,Nicole Campbell
+Caroline Barakat-Had,Fiore Sicoly
+Caroline Barakat-Had,Lisa Fiksenbaum
+Manon Lemonde,Toba Bryant
+Brandon J. Drenikow,Christopher Zerebeck
+Patrick Hung,Shachaf Ben-Tzur
+Garrett M. Hayes,Miguel Vargas Martin
+Jen Rinaldi,Thomas McMorrow
+Greg Lewis,Mihai Beligan
+Greg Lewis,Qing H. Li
+Greg Lewis,Pietro-Luciano Buono
+Lennaert Van Veen,Mehran Ebrahimi
+Haoxiang Lang,Scott B. Nokleby
+June MacDonald-Jenki,Kathy Cummings
+June MacDonald-Jenki,Sandra Mairs
+June MacDonald-Jenki,Leslie L. Graham
+June MacDonald-Jenki,Treva Job
+Gail Lindsay,Jennifer M. Abbass D
+Gail Lindsay,Karen Campbell
+June MacDonald-Jenki,Wendy Stanyon
+Isaac Tamblyn,Rupinder Brar
+Isaac Tamblyn,Matthew Weel
+Isaac Tamblyn,Zahraa Ibrahim
+Franco Gaspari,Rupinder Brar
+Hendrick De Haan,Marian Kowalski
+Miles Bowman,Shannon Vettor
+Amir Mostaghim,Liqun Cao
+Amir Mostaghim,Nicole M. Myers
+Amir Mostaghim,Christopher O'Connor
+Amir Mostaghim,James Walsh
+Amir Mostaghim,Karla Dhungana-Sainj
+Barbara Perry,Maurice Tomlinson
+Seyun Maria Jung,Treisha Hylton
+Amir Mostaghim,Scott M. Aquanno
+Amir Mostaghim,Daved Muttart
+Amir Mostaghim,Simon Granovsky-Lars
