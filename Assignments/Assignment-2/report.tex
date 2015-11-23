@@ -1,4 +1,4 @@
-\documentclass[titlepage]{article}
+\documentclass[]{article}
 
 \usepackage{titlesec}
 \usepackage[margin=1in]{geometry}
@@ -67,14 +67,13 @@
 
   \section{Provide a detailed algorithmic solution to compute the \emph{three} properties. You may use functions such as BFS, DFS, and Dijkstra}
 
+  In all of the following d is a global variable used in BFS as an array of distances for every node.
+
     \begin{minipage}[t]{0.3\linewidth}
       \subsection{Eccentricity}
         \begin{adjustwidth}{2em}{0pt}
-          for v $\in$ V
-          \begin{adjustwidth}{1em}{0pt}
             BFS(v) \\
-            e[v] = max(d)
-          \end{adjustwidth}
+            e = max(d)
         \end{adjustwidth}
     \end{minipage}
 \
@@ -98,25 +97,28 @@
             BFS(v) \\
             e[v] = max(d)
           \end{adjustwidth}
-          d = max(e)
+          D = max(e)
         \end{adjustwidth}
     \end{minipage}
 
+    \clearpage
+
   \section{What are the computation complexities of the \emph{three} solutions?}
+
+    In all of the following d is a global variable used in BFS as an array of distances for every node.
 
   \begin{minipage}[t]{0.33\linewidth}
     \subsection{Eccentricity}
       \begin{adjustwidth}{2em}{0pt}
-        for v $\in$ V \hfill $\mathcal{O} \left( |V| \right)$
-        \begin{adjustwidth}{1em}{0pt}
           BFS(v) \hfill $\mathcal{O} \left( |V| + |E| \right)$\\
-          e[v] = max(d) \hfill $\mathcal{O} \left( |V| \right)$
-        \end{adjustwidth}
+          e = max(d) \hfill $\mathcal{O} \left( |V| \right)$\\
+        \ \\
         \ \\
         \ \\
         Overall: \\
 
-        $ \mathcal{O} \left( |V| \times \left( \left( |V| + |E| \right) + |V| \right) \right)$
+        $ \mathcal{O} \left( \left( |V| + |E| \right) + |V| \right)$
+        $ \mathcal{O} \left( |V| + |E| \right)$
       \end{adjustwidth}
   \end{minipage}
 \
@@ -129,11 +131,13 @@
         e[v] = max(d) \hfill $\mathcal{O} \left( |V| \right)$
         \end{adjustwidth}
         r = min(e) \hfill $\mathcal{O} \left( |V| \right)$
-      \end{adjustwidth}
+
       \ \\
       Overall: \\
 
       $ \mathcal{O} \left( \left(|V| \times \left( \left( |V| + |E| \right) + |V| \right) \right) + |V| \right)$
+      $ \mathcal{O} \left( |V|^2 + |V||E| \right)$
+    \end{adjustwidth}
   \end{minipage}
 \
   \begin{minipage}[t]{0.33\linewidth}
@@ -144,13 +148,67 @@
         BFS(v) \hfill $\mathcal{O} \left( |V| + |E| \right)$\\
         e[v] = max(d) \hfill $\mathcal{O} \left( |V| \right)$
         \end{adjustwidth}
-        d = max(e) \hfill $\mathcal{O} \left( |V| \right)$
-      \end{adjustwidth}
+        D = max(e) \hfill $\mathcal{O} \left( |V| \right)$
+
       \ \\
       Overall: \\
 
       $ \mathcal{O} \left( \left(|V| \times \left( \left( |V| + |E| \right) + |V| \right) \right) + |V| \right)$
-  %    $ \mathcal{0} \left( |V|^{2} + |V||E| \right) $
+      $ \mathcal{O} \left( |V|^2 + |V||E| \right)$
+    \end{adjustwidth}
   \end{minipage}
+
+\part*{Part B}
+
+  \section{How many connected components are there? Describe what each connected component represents.}
+
+    There are 18 connected components. Each connected component represents a group of professors who are connected to another professor within the component through some path but not connected to any professor not in the component.
+
+  \section{For each connected component, measure the number of vertices and the radius of each component. Tabulate your results. Can you gain some insight into the components?}
+  \begin{center}
+    \begin{tabular}{| c | c | c |}
+      \hline
+      Verticies & Radius & Diameter \\
+      \hline
+      244 & 11 & 22 \\
+      \hline
+      148 & 10 & 20 \\
+      \hline
+      16 & 3 & 6 \\
+      \hline
+      10 & 3 & 5 \\
+      \hline
+      6 & 2 & 4 \\
+      \hline
+      5 & 2 & 3 \\
+      \hline
+      5 & 2 & 3 \\
+      \hline
+      4 & 1 & 1 \\
+      \hline
+      3 & 1 & 2 \\
+      \hline
+      3 & 1 & 1 \\
+      \hline
+      3 & 1 & 1 \\
+      \hline
+      2 & 1 & 1 \\
+      \hline
+      2 & 1 & 1 \\
+      \hline
+      2 & 1 & 1 \\
+      \hline
+      2 & 1 & 1 \\
+      \hline
+      2 & 1 & 1 \\
+      \hline
+      2 & 1 & 1 \\
+      \hline
+      2 & 1 & 1 \\
+      \hline
+    \end{tabular}
+  \end{center}
+
+The table show that there are two subgraphs that have most of the connections, they link a large number of professors together. These professors probably changed several course over the time period. The remaining subgraphs have small number of vertices(professors) and are often just a pair or small set that probably shared a single course and didn't change any of their other courses.
 
 \end{document}
