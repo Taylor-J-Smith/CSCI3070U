@@ -6,11 +6,9 @@ The file must then be accessed on localhost:8000/main.html or 127.0.0.1:8000/mai
 
 The following changes have been made to the given dataset and are reflected in the file instructor-pairs-csv.txt:
 
-  Converted to CSV format from given format.
-  
-  "'" have been removed from all names to allow for valid HTML id names
-  
-  "." have been removed from all names to allow for valid HTML id names
+  1. Converted to CSV format from given format.
+  2. "'" have been removed from all names to allow for valid HTML id names
+  3. "." have been removed from all names to allow for valid HTML id names
 
 Unfortunately at this time due to time constraints only BFS is visualized.
 
